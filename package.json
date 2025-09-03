@@ -1,7 +1,7 @@
 {
-  "name": "upi-payment-backend",
+  "name": "upi-backend",
   "version": "1.0.0",
-  "description": "Simple UPI Payment backend with CORS",
+  "description": "Simple UPI payment backend using Express",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
